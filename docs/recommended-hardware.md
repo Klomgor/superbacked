@@ -7,7 +7,7 @@ The following is a list of hardware that has been tested by the Superbacked team
 | MacBook Air (M2, 2022)                    | macOS Sequoia    | 15.4.1  | Apple silicon | Built-in     | ✅           | ✅            | Superbacked |
 | MacBook Pro (Retina, 13-inch, Early 2015) | Superbacked OS   | 1.7.2   | Intel         | Razer Kiyo X | ✅           | ✅            | Superbacked |
 | MacBook Pro (Retina, 13-inch, Early 2015) | macOS Monterey   | 12.7.6  | Intel         | Built-in     |              | ✅            | Superbacked |
-| ThinkPad X1 Carbon Gen 10                 | Superbacked OS   | 1.7.2   | Intel         | Built-in     |              | ✅            | Superbacked |
+| ThinkPad X1 Carbon Gen 10 (14” Intel)     | Superbacked OS   | 1.7.2   | Intel         | Built-in     |              | ✅            | Superbacked |
 
 ## How to test hardware and contribute to this list
 
